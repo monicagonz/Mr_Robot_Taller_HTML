@@ -1,0 +1,40 @@
+
+
+body {
+  background-image: url('https://cdn.dribbble.com/users/99875/screenshots/2843620/media/cb024b06c1d6cee9f1c188a1d3e8303d.gif');
+  background-size: 100% 100% ;
+}
+
+.container{
+  min-height: 110px;
+}
+
+.container2{
+  min-height: 50px;
+}
+#list-item-1 {
+    color: white; /* Cambia el color a azul */
+  }
+
+#list-item-2 {
+    color: white; /* Cambia el color a azul */
+  }
+
+#list-item-3 {
+    color: white; /* Cambia el color a azul */
+  }
+
+.list-item-1{
+  color: white;
+}
+
+.list-item-2{
+  color: white;
+}
+
+
+.list-item-2{
+  color: white;
+}
+
+

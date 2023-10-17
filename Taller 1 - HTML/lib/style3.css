@@ -1,0 +1,9 @@
+body {
+  background-image: url('https://cdn.dribbble.com/users/99875/screenshots/2843620/media/cb024b06c1d6cee9f1c188a1d3e8303d.gif');
+  background-size: 100% ;
+}
+
+
+.container{
+  min-height: 110px;
+}
